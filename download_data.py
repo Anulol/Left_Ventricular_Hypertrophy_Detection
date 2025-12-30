@@ -27,10 +27,10 @@ def download_with_direct_api():
         
         # Dataset configurations
         datasets = {
-            'ecg': 'shayanfazeli/heartbeat',
-            'mri': 'salikhussaini49/sunnybrook-cardiac-mri',
-            'ct': 'nikhilroxtomar/ct-heart-segmentation', 
-            'clinical': 'fedesoriano/heart-failure-prediction'
+            'ecg': '',
+            'mri': '',
+            'ct': '', 
+            'clinical': ''
         }
         
         success_count = 0
